@@ -1,7 +1,7 @@
 # Project for ODS Natural Language Processing course (autumn 2022)
 
 # Report
-https://github.com/mvlebedev/ods_nlp_huawei_fall_2022/tree/main/Report
+https://github.com/mvlebedev/ods_nlp_huawei_fall_2022/blob/main/Report/report_eng.pdf
 
 # Code
 
