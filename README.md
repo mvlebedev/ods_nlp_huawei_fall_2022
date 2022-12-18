@@ -1,4 +1,4 @@
-# Проект для ODS Natural Language Processing course (autumn 2022)
+# Project for ODS Natural Language Processing course (autumn 2022)
 
 
 # Code
