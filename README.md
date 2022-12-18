@@ -5,6 +5,7 @@
 
 * youtube_comments.py - class for downloading youtube comments (Класс для загрузки комментариев с youtube)
 * lda_youtube.ipynb - notebook for LDA model
+* clustering_youtube.ipynb - notebook for GMM, K-mens and other clustering methods
 
 # Note
 
