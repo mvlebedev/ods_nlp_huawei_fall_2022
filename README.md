@@ -11,5 +11,5 @@ https://github.com/mvlebedev/ods_nlp_huawei_fall_2022/blob/main/Report/report_en
 
 # Note
 
-1. Download data by youtube_class.py to directory Data
+1. Download data by youtube_class.py to directory data
 2. Run another scripts
